@@ -1,0 +1,32 @@
+/* MAIN */
+
+
+.main{
+    clear: both;
+    background-color: #ffffff;
+    border: 8px solid #dddddd;
+    font-style: bold;
+    width: 960px;
+    height: auto;
+    margin: auto;
+
+}
+
+#aboutme{
+    text-decoration: underline;
+    color: #4aaaa5;
+    margin-left: 15px;
+}
+
+#profpic{
+    float: left;
+    margin-right: 20px;
+    margin-left: 20px;
+    overflow: auto;
+
+}
+
+
+.bio{
+    clear: both;
+}

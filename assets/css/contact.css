@@ -1,45 +1,3 @@
-body{
-    background-color: rgb(119, 36, 36);
-    font-style: italic;
-}
-
-header{
-    padding: 20px;
-    /* float: right; */
-    background: #FFA500;
-    font-family: 'Georgia', 'Times', 'Times New Roman', 'serif';
-
-}
-
-.links{
-    float: right;
-}
-
-/* clear: both; */
-
-.bio{
-    color: aqua;
-    clear: both;
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 50% ;
-}
-
-
-.portfolio-wrapper{
-    color: brown;
-}
-
-footer{
-    padding: 20px;
-    clear: both;
-    background: #FFA500;
-    }
-
-.copyright{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-
-}
-
 /* Style inputs with type="text", select elements and textareas */
 input[type=text], select, textarea {
     width: 100%; /* Full width */
@@ -69,6 +27,9 @@ input[type=text], select, textarea {
   
   /* Add a background color and some padding around the form */
   .contact-form {
+    width: 960px;
+    height: auto;
+    margin: auto;
     border-radius: 5px;
     background-color: #f2f2f2;
     padding: 20px;
