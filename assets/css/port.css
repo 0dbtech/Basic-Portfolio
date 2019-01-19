@@ -1,19 +1,30 @@
 .img-wrapper{
-    width: 960px;
+  clear: both;  
+  width: 960px;
+  height: 600px;
     margin: auto;
     margin-top: 20px;
+    background-color: #ffffff;
+    border: 8px solid #dddddd;
+    font-style: bold;
+ 
 }
 
-/* Three image containers (use 25% for four, and 50% for two, etc) */
+#port{
+  text-decoration: underline;
+  color: #4aaaa5;
+  margin-left: 15px;
+}
+
 .column {
     position: relative;
     float: left;
     width: 20%;
     padding: 5px;
     margin-top: 5px;
+    z-index: 1;
   }
   
-  /* Clear floats after image containers */
   .row::after {
     content: "";
     clear: both;

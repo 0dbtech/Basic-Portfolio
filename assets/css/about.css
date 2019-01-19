@@ -1,7 +1,6 @@
 /* MAIN */
 
-
-.main{
+  .main{
     clear: both;
     background-color: #ffffff;
     border: 8px solid #dddddd;
@@ -9,8 +8,10 @@
     width: 960px;
     height: auto;
     margin: auto;
+    margin-top: 20px;
 
 }
+
 
 #aboutme{
     text-decoration: underline;

@@ -1,3 +1,21 @@
+
+.contact-form{
+    clear: both;
+    background-color: #ffffff;
+    border: 8px solid #dddddd;
+    font-style: bold;
+    width: 960px;
+    height: auto;
+    margin: auto;
+    margin-top: 20px;
+}
+
+#contact{
+  color: #4aaaa5;
+  margin-left: 15px;
+  text-decoration: underline;
+}
+
 /* Style inputs with type="text", select elements and textareas */
 input[type=text], select, textarea {
     width: 100%; /* Full width */
@@ -12,7 +30,7 @@ input[type=text], select, textarea {
   
   /* Style the submit button with a specific background color etc */
   input[type=submit] {
-    background-color: #4CAF50;
+    background-color: #4aaaa5;
     color: white;
     padding: 12px 20px;
     border: none;
